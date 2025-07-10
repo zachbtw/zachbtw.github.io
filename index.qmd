@@ -2,7 +2,7 @@
 title: "Zachary R. Pipping"
 about:
   template: jolla
-  image: assets/headshot.png
+  image: assets/headshot.JPEG
   links:
     - icon: inbox
       text: Email
