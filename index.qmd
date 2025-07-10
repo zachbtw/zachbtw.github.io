@@ -1,0 +1,17 @@
+---
+title: "Zachary R. Pipping"
+about:
+  template: jolla
+  image: assets/headshot.png
+  links:
+    - icon: inbox
+      text: Email
+      href: mailto:zrpipping@gmail.com
+    - icon: github
+      text: Github
+      href: https://github.com/zachbtw
+---
+
+Insert your bio:
+
+Welcome to my website! I am a final year undergrad at the University of Florida, studying Statistics and Economics! I'm interested in...
