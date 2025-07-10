@@ -12,6 +12,4 @@ about:
       href: https://github.com/zachbtw
 ---
 
-Insert your bio:
-
 Welcome to my website! I am a final year undergrad at the University of Florida, studying Statistics and Economics! I'm interested in...
