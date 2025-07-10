@@ -5,7 +5,7 @@ project:
 website:
   title: "Zachary R. Pipping"
   navbar:
-    background: "#00008b"
+    background: "#006400"
     left:
       - href: index.qmd
         text: Home
