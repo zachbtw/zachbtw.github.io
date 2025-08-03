@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 listing:
-  contents: projects # name of the folder
+  contents: projects  # name of the folder
   type: default
   sort: 
     - "date"
