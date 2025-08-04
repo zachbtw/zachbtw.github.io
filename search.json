@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "My EDA project\n\n\nThis is my summer 2025 eda project, from CMSACamp\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMy Capstone project\n\n\nThis is my summer 2025 capstone project, from CMSACamp\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nPassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice\n\n\n\n\n\n\n\n\nZachary Pipping, Lou Zhou, Dr. Karim Kassam\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "projects/eda/eda.html",
     "href": "projects/eda/eda.html",
     "title": "My EDA project",
@@ -7,18 +14,11 @@
     "text": "This is my EDA project…"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "projects/capstone/capstone.html",
+    "href": "projects/capstone/capstone.html",
+    "title": "My Capstone project",
     "section": "",
-    "text": "My EDA project\n\n\nThis is my summer 2025 eda project, from CMSACamp\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMy Capstone project\n\n\nThis is my summer 2025 capstone project, from CMSACamp\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Zachary R. Pipping",
-    "section": "",
-    "text": "Welcome to my website! I am a final year undergrad at the University of Florida, studying Statistics and Economics! I’m interested in…"
+    "text": "This is my capstone project"
   },
   {
     "objectID": "about.html",
@@ -28,10 +28,262 @@
     "text": "About this site\n\n1 + 1 \n\n[1] 2"
   },
   {
-    "objectID": "projects/capstone/capstone.html",
-    "href": "projects/capstone/capstone.html",
-    "title": "My Capstone project",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zachary R. Pipping",
     "section": "",
-    "text": "This is my capstone project"
+    "text": "Welcome to my website! I am a final year undergrad at the University of Florida, studying Statistics and Economics! I’m interested in…"
+  },
+  {
+    "objectID": "projects/capstone/PassPredictRSlides.html#motivating-example---pj-walker-to-dj-moore",
+    "href": "projects/capstone/PassPredictRSlides.html#motivating-example---pj-walker-to-dj-moore",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Motivating Example - PJ Walker to DJ Moore",
+    "text": "Motivating Example - PJ Walker to DJ Moore"
+  },
+  {
+    "objectID": "projects/capstone/PassPredictRSlides.html#motivating-questions",
+    "href": "projects/capstone/PassPredictRSlides.html#motivating-questions",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Motivating Questions",
+    "text": "Motivating Questions\n\n\nWhat would other quarterbacks do in this situation?\n\n\n\n\nWhich quarterbacks deviate from the expected option the most?\n\nDo some quarterbacks find success in this deviation?\nShould some quarterbacks throw more typical passes?\n\n\n\n\n\nLook to build a ranking model to determine the most likely throw target"
+  },
+  {
+    "objectID": "projects/capstone/PassPredictRSlides.html#data-overview",
+    "href": "projects/capstone/PassPredictRSlides.html#data-overview",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Data Overview",
+    "text": "Data Overview\n\n\n\n2024 NFL Big Data Bowl – 2022 Season Weeks 1–9\n\n\n\nGame and Play Data – Teams, Score, Play Description, Game Context, Play Result, Changes in Win Probability\n\n\n\n\nPlayer Play Data – Statistics for each player for a play\n\nRoute ran by player, Whether the player made a tackle or interception\n\n\n\n\n\nTracking Data - Locations of players and the football at each frame of a play\n\n\n\n\nExclusively looking at throwing plays with an obvious target\n\nRemoving spikes and throwaways"
+  },
+  {
+    "objectID": "projects/capstone/PassPredictRSlides.html#current-spacing-tells-an-incomplete-story",
+    "href": "projects/capstone/PassPredictRSlides.html#current-spacing-tells-an-incomplete-story",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Current Spacing Tells an Incomplete Story",
+    "text": "Current Spacing Tells an Incomplete Story"
+  },
+  {
+    "objectID": "projects/capstone/PassPredictRSlides.html#speed-and-orientation-as-a-proxy-for-future-separation",
+    "href": "projects/capstone/PassPredictRSlides.html#speed-and-orientation-as-a-proxy-for-future-separation",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Speed and Orientation as a Proxy for Future Separation",
+    "text": "Speed and Orientation as a Proxy for Future Separation"
+  },
+  {
+    "objectID": "projects/capstone/PassPredictRSlides.html#deriving-qb-line-of-sight-prior-to-throw",
+    "href": "projects/capstone/PassPredictRSlides.html#deriving-qb-line-of-sight-prior-to-throw",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Deriving QB Line of Sight Prior to Throw",
+    "text": "Deriving QB Line of Sight Prior to Throw"
+  },
+  {
+    "objectID": "projects/capstone/PassPredictRSlides.html#methodology",
+    "href": "projects/capstone/PassPredictRSlides.html#methodology",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Methodology",
+    "text": "Methodology\n\n\nBuilding a ranking algorithm(i.e. XGBoost) using hand-crafted features to rank the likeliest recipient at a frame - 59.9 \\(\\pm\\) 0.5% top-1 accuracy\n\nUsing a random hyperparameter search and 5-fold cross validation, with folds on matches\nPerforms significantly stronger than naive random guess(20%) and choosing the player who is farthest from their closest defender(31%)\n\n\n\n\n\nApplying model to contextualize individual QB decisions by comparing them to model-predicted choices"
+  },
+  {
+    "objectID": "projects/capstone/PassPredictRSlides.html#feature-set",
+    "href": "projects/capstone/PassPredictRSlides.html#feature-set",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Feature Set",
+    "text": "Feature Set\n\n\n\n\n\n\n\nFeature Category\nFeatures\n\n\n\n\nRecipient Features\n- Distance (x, y, magnitude)*  - Speed Differences (x, y, magnitude)*  - Orientation Differences*  - Speed Vector Distance*  - Receiver Position  - First Down Indicator  - Number of Defenders in Route-Runner’s “Next 5 Yards” - Angle between QB Orientation and Receiver 5 Frames Prior \n\n\nQuarterback Features\n- Distance from Receiver  - Movement Vector  - Under Pressure Indicator\n\n\nGame Context\n- Quarter  - Down and Distance  - Score Differential  - Time Remaining\n\n\n\n*Feature taken relative to the top-3 closest defenders"
+  },
+  {
+    "objectID": "projects/capstone/PassPredictRSlides.html#for-p.j.-walker-the-expected-play-is-the-safe-play",
+    "href": "projects/capstone/PassPredictRSlides.html#for-p.j.-walker-the-expected-play-is-the-safe-play",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "For P.J. Walker, The Expected Play is the Safe Play",
+    "text": "For P.J. Walker, The Expected Play is the Safe Play"
+  },
+  {
+    "objectID": "projects/capstone/PassPredictRSlides.html#checking-with-the-eye-test",
+    "href": "projects/capstone/PassPredictRSlides.html#checking-with-the-eye-test",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Checking with the Eye Test",
+    "text": "Checking with the Eye Test"
+  },
+  {
+    "objectID": "projects/capstone/PassPredictRSlides.html#potential-optimization-opportunities-with-more-conventional-passes",
+    "href": "projects/capstone/PassPredictRSlides.html#potential-optimization-opportunities-with-more-conventional-passes",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Potential Optimization Opportunities with More Conventional Passes",
+    "text": "Potential Optimization Opportunities with More Conventional Passes"
+  },
+  {
+    "objectID": "projects/capstone/PassPredictRSlides.html#discussion",
+    "href": "projects/capstone/PassPredictRSlides.html#discussion",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Discussion",
+    "text": "Discussion\n\n\nAble to model the likely target using an XGBoost Ranking Model with strong predictive power\n\nImprovements from incorporating newer factors like receiver skill and pre-snap factors\n\n\n\n\n\nReliance on proxies which could add bias to results\n\nSmaller dataset, only about 200 throws per quarterback\nWould like to model quarterback development throughout their career"
+  },
+  {
+    "objectID": "projects/capstone/PassPredictRSlides.html#further-information",
+    "href": "projects/capstone/PassPredictRSlides.html#further-information",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Further Information",
+    "text": "Further Information\n\nAcknowledgements: Dr. Karim Kassam, Quang Nguyen, Dr. Ron Yurko, CMU Statistics\nCode: https://github.com/zachbtw/Zhou-Pipping-CMSA\nContact Us:\n\nLou Zhou: lou-zhou.github.io\nZachary Pipping: zachbtw.github.io"
+  },
+  {
+    "objectID": "projects/capstone/PassPredictRSlides.html#appendix-a---projecting-future-locations-with-a-point-estimate",
+    "href": "projects/capstone/PassPredictRSlides.html#appendix-a---projecting-future-locations-with-a-point-estimate",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Appendix A - Projecting Future Locations With a Point Estimate",
+    "text": "Appendix A - Projecting Future Locations With a Point Estimate"
+  },
+  {
+    "objectID": "projects/capstone/PassPredictRSlides.html#appendix-b---variable-importance",
+    "href": "projects/capstone/PassPredictRSlides.html#appendix-b---variable-importance",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Appendix B - Variable Importance",
+    "text": "Appendix B - Variable Importance"
+  },
+  {
+    "objectID": "projects/capstone/PassPredictRSlides.html#appendix-c---example-for-vision-features",
+    "href": "projects/capstone/PassPredictRSlides.html#appendix-c---example-for-vision-features",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Appendix C - Example for Vision Features",
+    "text": "Appendix C - Example for Vision Features"
+  },
+  {
+    "objectID": "projects/capstone/PassPredictRSlides.html#appendix-d---optimal-qb-vision-derivation",
+    "href": "projects/capstone/PassPredictRSlides.html#appendix-d---optimal-qb-vision-derivation",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Appendix D - Optimal QB Vision Derivation",
+    "text": "Appendix D - Optimal QB Vision Derivation"
+  },
+  {
+    "objectID": "projects/capstone/PassPredictRSlides.html#appendix-e---head-tracking-proof-of-concept",
+    "href": "projects/capstone/PassPredictRSlides.html#appendix-e---head-tracking-proof-of-concept",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Appendix E - Head Tracking Proof of Concept",
+    "text": "Appendix E - Head Tracking Proof of Concept"
+  },
+  {
+    "objectID": "PassPredictRSlides.html#motivating-example---pj-walker-to-dj-moore",
+    "href": "PassPredictRSlides.html#motivating-example---pj-walker-to-dj-moore",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Motivating Example - PJ Walker to DJ Moore",
+    "text": "Motivating Example - PJ Walker to DJ Moore"
+  },
+  {
+    "objectID": "PassPredictRSlides.html#motivating-questions",
+    "href": "PassPredictRSlides.html#motivating-questions",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Motivating Questions",
+    "text": "Motivating Questions\n\n\nWhat would other quarterbacks do in this situation?\n\n\n\n\nWhich quarterbacks deviate from the expected option the most?\n\nDo some quarterbacks find success in this deviation?\nShould some quarterbacks throw more typical passes?\n\n\n\n\n\nLook to build a ranking model to determine the most likely throw target"
+  },
+  {
+    "objectID": "PassPredictRSlides.html#data-overview",
+    "href": "PassPredictRSlides.html#data-overview",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Data Overview",
+    "text": "Data Overview\n\n\n\n2024 NFL Big Data Bowl – 2022 Season Weeks 1–9\n\n\n\nGame and Play Data – Teams, Score, Play Description, Game Context, Play Result, Changes in Win Probability\n\n\n\n\nPlayer Play Data – Statistics for each player for a play\n\nRoute ran by player, Whether the player made a tackle or interception\n\n\n\n\n\nTracking Data - Locations of players and the football at each frame of a play\n\n\n\n\nExclusively looking at throwing plays with an obvious target\n\nRemoving spikes and throwaways"
+  },
+  {
+    "objectID": "PassPredictRSlides.html#current-spacing-tells-an-incomplete-story",
+    "href": "PassPredictRSlides.html#current-spacing-tells-an-incomplete-story",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Current Spacing Tells an Incomplete Story",
+    "text": "Current Spacing Tells an Incomplete Story"
+  },
+  {
+    "objectID": "PassPredictRSlides.html#speed-and-orientation-as-a-proxy-for-future-separation",
+    "href": "PassPredictRSlides.html#speed-and-orientation-as-a-proxy-for-future-separation",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Speed and Orientation as a Proxy for Future Separation",
+    "text": "Speed and Orientation as a Proxy for Future Separation"
+  },
+  {
+    "objectID": "PassPredictRSlides.html#deriving-qb-line-of-sight-prior-to-throw",
+    "href": "PassPredictRSlides.html#deriving-qb-line-of-sight-prior-to-throw",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Deriving QB Line of Sight Prior to Throw",
+    "text": "Deriving QB Line of Sight Prior to Throw"
+  },
+  {
+    "objectID": "PassPredictRSlides.html#methodology",
+    "href": "PassPredictRSlides.html#methodology",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Methodology",
+    "text": "Methodology\n\n\nBuilding a ranking algorithm(i.e. XGBoost) using hand-crafted features to rank the likeliest recipient at a frame - 59.9 \\(\\pm\\) 0.5% top-1 accuracy\n\nUsing a random hyperparameter search and 5-fold cross validation, with folds on matches\nPerforms significantly stronger than naive random guess(20%) and choosing the player who is farthest from their closest defender(31%)\n\n\n\n\n\nApplying model to contextualize individual QB decisions by comparing them to model-predicted choices"
+  },
+  {
+    "objectID": "PassPredictRSlides.html#feature-set",
+    "href": "PassPredictRSlides.html#feature-set",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Feature Set",
+    "text": "Feature Set\n\n\n\n\n\n\n\nFeature Category\nFeatures\n\n\n\n\nRecipient Features\n- Distance (x, y, magnitude)*  - Speed Differences (x, y, magnitude)*  - Orientation Differences*  - Speed Vector Distance*  - Receiver Position  - First Down Indicator  - Number of Defenders in Route-Runner’s “Next 5 Yards” - Angle between QB Orientation and Receiver 5 Frames Prior \n\n\nQuarterback Features\n- Distance from Receiver  - Movement Vector  - Under Pressure Indicator\n\n\nGame Context\n- Quarter  - Down and Distance  - Score Differential  - Time Remaining\n\n\n\n*Feature taken relative to the top-3 closest defenders"
+  },
+  {
+    "objectID": "PassPredictRSlides.html#for-p.j.-walker-the-expected-play-is-the-safe-play",
+    "href": "PassPredictRSlides.html#for-p.j.-walker-the-expected-play-is-the-safe-play",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "For P.J. Walker, The Expected Play is the Safe Play",
+    "text": "For P.J. Walker, The Expected Play is the Safe Play"
+  },
+  {
+    "objectID": "PassPredictRSlides.html#checking-with-the-eye-test",
+    "href": "PassPredictRSlides.html#checking-with-the-eye-test",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Checking with the Eye Test",
+    "text": "Checking with the Eye Test"
+  },
+  {
+    "objectID": "PassPredictRSlides.html#potential-optimization-opportunities-with-more-conventional-passes",
+    "href": "PassPredictRSlides.html#potential-optimization-opportunities-with-more-conventional-passes",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Potential Optimization Opportunities with More Conventional Passes",
+    "text": "Potential Optimization Opportunities with More Conventional Passes"
+  },
+  {
+    "objectID": "PassPredictRSlides.html#discussion",
+    "href": "PassPredictRSlides.html#discussion",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Discussion",
+    "text": "Discussion\n\n\nAble to model the likely target using an XGBoost Ranking Model with strong predictive power\n\nImprovements from incorporating newer factors like receiver skill and pre-snap factors\n\n\n\n\n\nReliance on proxies which could add bias to results\n\nSmaller dataset, only about 200 throws per quarterback\nWould like to model quarterback development throughout their career"
+  },
+  {
+    "objectID": "PassPredictRSlides.html#further-information",
+    "href": "PassPredictRSlides.html#further-information",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Further Information",
+    "text": "Further Information\n\nAcknowledgements: Dr. Karim Kassam, Quang Nguyen, Dr. Ron Yurko, CMU Statistics\nCode: https://github.com/zachbtw/Zhou-Pipping-CMSA\nContact Us:\n\nLou Zhou: lou-zhou.github.io\nZachary Pipping: zachbtw.github.io"
+  },
+  {
+    "objectID": "PassPredictRSlides.html#appendix-a---projecting-future-locations-with-a-point-estimate",
+    "href": "PassPredictRSlides.html#appendix-a---projecting-future-locations-with-a-point-estimate",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Appendix A - Projecting Future Locations With a Point Estimate",
+    "text": "Appendix A - Projecting Future Locations With a Point Estimate"
+  },
+  {
+    "objectID": "PassPredictRSlides.html#appendix-b---variable-importance",
+    "href": "PassPredictRSlides.html#appendix-b---variable-importance",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Appendix B - Variable Importance",
+    "text": "Appendix B - Variable Importance"
+  },
+  {
+    "objectID": "PassPredictRSlides.html#appendix-c---example-for-vision-features",
+    "href": "PassPredictRSlides.html#appendix-c---example-for-vision-features",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Appendix C - Example for Vision Features",
+    "text": "Appendix C - Example for Vision Features"
+  },
+  {
+    "objectID": "PassPredictRSlides.html#appendix-d---optimal-qb-vision-derivation",
+    "href": "PassPredictRSlides.html#appendix-d---optimal-qb-vision-derivation",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Appendix D - Optimal QB Vision Derivation",
+    "text": "Appendix D - Optimal QB Vision Derivation"
+  },
+  {
+    "objectID": "PassPredictRSlides.html#appendix-e---head-tracking-proof-of-concept",
+    "href": "PassPredictRSlides.html#appendix-e---head-tracking-proof-of-concept",
+    "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
+    "section": "Appendix E - Head Tracking Proof of Concept",
+    "text": "Appendix E - Head Tracking Proof of Concept"
   }
 ]
