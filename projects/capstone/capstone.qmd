@@ -12,7 +12,7 @@ about:
       href: "https://github.com/zachbtw/Zhou-Pipping-CMSA"
     - icon: easel
       text: "Slides"
-      href: "PassPredictRSlides.html"
+      href: "projects/capstone/PassPredictRSlides.html"
     
 format: html
 ---
