@@ -3,8 +3,7 @@
     "listing": "/projects.html",
     "items": [
       "/projects/eda/eda.html",
-      "/projects/capstone/capstone.html",
-      "/projects/capstone/PassPredictRSlides.html"
+      "/projects/capstone/capstone.html"
     ]
   }
 ]
