@@ -13,7 +13,7 @@ format:
     embed-resources: true
     slide-number: true
     preview-links: auto
-    theme: theme
+    theme: default
 ---
 
 ## Motivating Example - PJ Walker to DJ Moore
@@ -105,7 +105,7 @@ format:
 ## Feature Set {.smaller}
 
 | Feature Category | Features |
-|-------------------|-----------------------------------------------------|
+|--------------------|----------------------------------------------------|
 | **Recipient Features** | \- *Distance (x, y, magnitude)\** <br> - *Speed Differences (x, y, magnitude)\** <br> - *Orientation Differences\** <br> - *Speed Vector Distance\** <br> - Receiver Position <br> - First Down Indicator <br> - Number of Defenders in Route-Runner's "Next 5 Yards"<br> - Angle between QB Orientation and Receiver 5 Frames Prior <br> |
 | **Quarterback Features** | \- Distance from Receiver <br> - Movement Vector <br> - Under Pressure Indicator |
 | **Game Context** | \- Quarter <br> - Down and Distance <br> - Score Differential <br> - Time Remaining |
@@ -168,34 +168,27 @@ format:
 
 ## Appendix A - Projecting Future Locations With a Point Estimate
 
-
-<div style="display: flex; align-items: center; height: 100vh;">
-
+:::: {style="display: flex; align-items: center; height: 100vh;"}
 ::: {style="text-align: center; width: 100%;"}
 ![](websiteassets/CapstoneAssets/Slides_Assets/project_fail.png){style="max-height: 80vh;"}
 :::
-</div>
+::::
 
 ## Appendix B - Variable Importance
 
-<div style="display: flex; align-items: center; height: 70vh;">
-
+:::: {style="display: flex; align-items: center; height: 70vh;"}
 ::: {style="text-align: center; width: 100%;"}
 ![](websiteassets/CapstoneAssets/Slides_Assets/vip_plot.png){style="max-height: 70vh;"}
 :::
-
-</div>
+::::
 
 ## Appendix C - Example for Vision Features
 
-<div style="display: flex; align-items: center; height: 70vh;">
-
+:::: {style="display: flex; align-items: center; height: 70vh;"}
 ::: {style="text-align: center; width: 100%;"}
 ![](websiteassets/CapstoneAssets/Slides_Assets/Los_wr.png){style="max-height: 70vh;"}
 :::
-
-</div>
-
+::::
 
 ## Appendix D - Optimal QB Vision Derivation
 
