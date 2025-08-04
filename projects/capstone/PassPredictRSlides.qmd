@@ -19,7 +19,7 @@ format:
 ## Motivating Example - PJ Walker to DJ Moore
 
 ::: {style="text-align: center;"}
-![](websiteassets/CapstoneAssets/Slides_Assets/DJ_MOORE_TIES_THE_GAME.gif){width="800"}
+![](projects/capstone/Slides_Assets/DJ_MOORE_TIES_THE_GAME.gif){width="800"}
 :::
 
 ## Motivating Questions
