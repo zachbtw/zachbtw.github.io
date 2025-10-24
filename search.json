@@ -81,7 +81,7 @@
     "href": "PassPredictRSlides.html#feature-set",
     "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
     "section": "Feature Set",
-    "text": "Feature Set\n\n\n\n\n\n\n\nFeature Category\nFeatures\n\n\n\n\nRecipient Features\n- Distance (x, y, magnitude)*  - Speed Differences (x, y, magnitude)*  - Orientation Differences*  - Speed Vector Distance*  - Receiver Position  - First Down Indicator  - Number of Defenders in Route-Runner’s “Next 5 Yards” - Angle between QB Orientation and Receiver 5 Frames Prior \n\n\nQuarterback Features\n- Distance from Receiver  - Movement Vector  - Under Pressure Indicator\n\n\nGame Context\n- Quarter  - Down and Distance  - Score Differential  - Time Remaining\n\n\n\n*Feature taken relative to the top-3 closest defenders"
+    "text": "Feature Set\n\n\n\n\n\n\n\nFeature Category\nFeatures\n\n\n\n\nRecipient Features\n- Distance (x, y, magnitude)*  - Speed Differences (x, y, magnitude)*  - Orientation Differences*  - Speed Vector Distance*  - Receiver Position  - First Down Indicator  - Number of Defenders in Route-Runner’s “Next 5 Yards” - Angle between QB Orientation and Receiver 5 Frames Prior \n\n\nQuarterback Features\n- Distance from Receiver  - Movement Vector  - Under Pressure Indicator\n\n\nGame Context\n- Quarter, Time Remaining  - Down and Distance, Score Differential\n\n\n\n*Feature taken relative to the top-3 closest defenders"
   },
   {
     "objectID": "PassPredictRSlides.html#for-p.j.-walker-the-expected-play-is-the-safe-play",
