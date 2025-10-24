@@ -58,7 +58,6 @@ format:
 
 ::: fragment
 -   Exclusively looking at throwing plays with an obvious target
-    -   Removing spikes and throwaways
 :::
 
 :::::::
@@ -120,7 +119,7 @@ format:
 :::
 
 ::: {.column width="34%"}
-<br><br> <img src="Assets/Slides_Assets/moore_throw_rankings.png"/>
+<br><br> <img src="Slides_Assets/moore_throw_rankings.png"/>
 :::
 :::::
 
