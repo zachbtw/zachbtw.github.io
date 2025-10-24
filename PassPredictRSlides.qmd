@@ -19,7 +19,7 @@ format:
 ## Motivating Example - PJ Walker to DJ Moore
 
 ::: {style="text-align: center;"}
-![](projects/capstone/Slides_Assets/DJ_MOORE_TIES_THE_GAME.gif){width="800"}
+![](Slides_Assets/DJ_MOORE_TIES_THE_GAME.gif)
 :::
 
 ## Motivating Questions
@@ -64,31 +64,31 @@ format:
 :::::::
 
 ::: {.column width="50%"}
-![](websiteassets/CapstoneAssets/Slides_Assets/highWP.gif)
+![](Slides_Assets/highWP.gif)
 :::
 :::::::::
 
 ## Current Spacing Tells an Incomplete Story
 
 ::: {style="text-align: center;"}
-![](websiteassets/CapstoneAssets/Slides_Assets/dadamsthrow.gif)
+![](Slides_Assets/dadamsthrow.gif)
 :::
 
 ## Speed and Orientation as a Proxy for Future Separation
 
 ::::: columns
 ::: {.column width="50%"}
-<br> ![](websiteassets/CapstoneAssets/Slides_Assets/speedVect.png)
+<br> ![](Slides_Assets/speedVect.png)
 :::
 
 ::: {.column width="50%"}
-![](websiteassets/CapstoneAssets/Slides_Assets/corr_plot.png)
+![](Slides_Assets/corr_plot.png)
 :::
 :::::
 
 ## Deriving QB Line of Sight Prior to Throw
 
-![](websiteassets/CapstoneAssets/Slides_Assets/vision_example.gif)
+![](Slides_Assets/vision_example.gif)
 
 ## Methodology
 
@@ -105,7 +105,7 @@ format:
 ## Feature Set {.smaller}
 
 | Feature Category | Features |
-|----|----|
+|------------------------------------|------------------------------------|
 | **Recipient Features** | \- *Distance (x, y, magnitude)\** <br> - *Speed Differences (x, y, magnitude)\** <br> - *Orientation Differences\** <br> - *Speed Vector Distance\** <br> - Receiver Position <br> - First Down Indicator <br> - Number of Defenders in Route-Runner's "Next 5 Yards"<br> - Angle between QB Orientation and Receiver 5 Frames Prior <br> |
 | **Quarterback Features** | \- Distance from Receiver <br> - Movement Vector <br> - Under Pressure Indicator |
 | **Game Context** | \- Quarter <br> - Down and Distance <br> - Score Differential <br> - Time Remaining |
@@ -116,11 +116,11 @@ format:
 
 ::::: columns
 ::: {.column width="66%"}
-![](websiteassets/CapstoneAssets/Slides_Assets/PJMoorePredictions.png)
+![](Slides_Assets/PJMoorePredictions.png)
 :::
 
 ::: {.column width="34%"}
-<br><br> ![](websiteassets/CapstoneAssets/Slides_Assets/moore_throw_rankings.png)
+<br><br> ![](Slides_Assets/moore_throw_rankings.png)
 :::
 :::::
 
@@ -128,18 +128,18 @@ format:
 
 ::::: columns
 ::: {.column width="50%"}
-<br>![](websiteassets/CapstoneAssets/Slides_Assets/MostPredictable.png)
+<br>![](Slides_Assets/MostPredictable.png)
 :::
 
 ::: {.column width="50%"}
-<br> ![](websiteassets/CapstoneAssets/Slides_Assets/MostUnPredictable.png)
+<br> ![](Slides_Assets/MostUnPredictable.png)
 :::
 :::::
 
 ## Potential Optimization Opportunities with More Conventional Passes
 
 ::: {style="text-align: center;"}
-![](websiteassets/CapstoneAssets/Slides_Assets/QBClustering_nt.png)
+![](Slides_Assets/QBClustering_nt.png)
 :::
 
 ## Discussion {.small}
@@ -170,7 +170,7 @@ format:
 
 :::: {style="display: flex; align-items: center; height: 100vh;"}
 ::: {style="text-align: center; width: 100%;"}
-![](websiteassets/CapstoneAssets/Slides_Assets/project_fail.png){style="max-height: 80vh;"}
+![](Slides_Assets/project_fail.png){style="max-height: 80vh;"}
 :::
 ::::
 
@@ -178,7 +178,7 @@ format:
 
 :::: {style="display: flex; align-items: center; height: 70vh;"}
 ::: {style="text-align: center; width: 100%;"}
-![](websiteassets/CapstoneAssets/Slides_Assets/vip_plot.png){style="max-height: 70vh;"}
+![](Slides_Assets/vip_plot.png){style="max-height: 70vh;"}
 :::
 ::::
 
@@ -186,18 +186,18 @@ format:
 
 :::: {style="display: flex; align-items: center; height: 70vh;"}
 ::: {style="text-align: center; width: 100%;"}
-![](websiteassets/CapstoneAssets/Slides_Assets/Los_wr.png){style="max-height: 70vh;"}
+![](Slides_Assets/Los_wr.png){style="max-height: 70vh;"}
 :::
 ::::
 
 ## Appendix D - Optimal QB Vision Derivation
 
 ::: {style="text-align: center;"}
-![](websiteassets/CapstoneAssets/Slides_Assets/Angle_diff_Histogram.png){width="656"}
+![](Slides_Assets/Angle_diff_Histogram.png){width="656"}
 :::
 
 ## Appendix E - Head Tracking Proof of Concept
 
 ::: {style="text-align: center;"}
-![](websiteassets/CapstoneAssets/Slides_Assets/lionsplay.gif) ![](websiteassets/CapstoneAssets/Slides_Assets/washingtonpass.gif)
+![](Slides_Assets/lionsplay.gif) ![](Slides_Assets/washingtonpass.gif)
 :::
