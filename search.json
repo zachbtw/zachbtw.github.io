@@ -46,7 +46,7 @@
     "href": "PassPredictRSlides.html#data-overview",
     "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
     "section": "Data Overview",
-    "text": "Data Overview\n\n\n\n2024 NFL Big Data Bowl – 2022 Season Weeks 1–9\n\nThis text will automatically adjust its size to fit within the 50% width of this column. ::: fragment\n\nGame and Play Data – Teams, Score, Play Description, Game Context, Play Result, Changes in Win Probability\n\n\n\nPlayer Play Data – Statistics for each player for a play\n\nRoute ran by player, Whether the player made a tackle or interception\n\nTracking Data - Locations of players and the football at each frame of a play\n\n\n\nExclusively looking at throwing plays with an obvious target\n\nRemoving spikes and throwaways"
+    "text": "Data Overview\n\n\n\n2024 NFL Big Data Bowl – 2022 Season Weeks 1–9\n\n\n\n\nGame and Play Data – Teams, Score, Play Description, Game Context, Play Result, Changes in Win Probability\n\n\n\n\n\n\nPlayer Play Data – Statistics for each player for a play\n\nRoute ran by player, Whether the player made a tackle or interception\n\nTracking Data - Locations of players and the football at each frame of a play\n\n\n\n\n\n\nExclusively looking at throwing plays with an obvious target\n\nRemoving spikes and throwaways"
   },
   {
     "objectID": "PassPredictRSlides.html#current-spacing-tells-an-incomplete-story",
