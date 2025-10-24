@@ -168,7 +168,7 @@ format:
 ## Appendix A - Projecting Future Locations With a Point Estimate
 
 
-::: {style="text-align: center;}
+::: {style="text-align: center;"}
 <img src="Slides_Assets/project_fail.png" width="600px"/>
 :::
 
