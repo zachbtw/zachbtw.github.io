@@ -51,6 +51,8 @@ format:
 ::: fragment
 -   **Player Play Data** – Statistics for each player for a play
     -   Route ran by player, Whether the player made a tackle or interception
+:::
+::: fragment
 -   **Tracking Data** - Locations of players and the football at each frame of a play
 :::
 
