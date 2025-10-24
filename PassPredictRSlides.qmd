@@ -43,7 +43,6 @@ format:
 ::::::::: columns
 ::::::: {.column width="50%"}
 -   **2024 NFL Big Data Bowl – 2022 Season Weeks 1–9**
-
 ::: fragment
 -   **Game and Play Data** – Teams, Score, Play Description, Game Context, Play Result, Changes in Win Probability
 :::
@@ -61,6 +60,7 @@ format:
 -   Exclusively looking at throwing plays with an obvious target
     -   Removing spikes and throwaways
 :::
+
 :::::::
 
 ::: {.column width="50%"}
