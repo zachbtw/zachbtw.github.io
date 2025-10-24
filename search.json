@@ -7,13 +7,6 @@
     "text": "My EDA project\n\n\nThis is my summer 2025 eda project, from CMSACamp\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMy Capstone project\n\n\nThis is my summer 2025 capstone project, from CMSACamp\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/eda/eda.html",
-    "href": "projects/eda/eda.html",
-    "title": "My EDA project",
-    "section": "",
-    "text": "This is my EDA project…"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Zachary R. Pipping",
@@ -21,18 +14,18 @@
     "text": "Welcome to my website! I am a final year undergrad at the University of Florida, studying Statistics and Economics! I’m interested in…"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1 \n\n[1] 2"
-  },
-  {
     "objectID": "projects/capstone/capstone.html",
     "href": "projects/capstone/capstone.html",
     "title": "My Capstone project",
     "section": "",
     "text": "This is my capstone project"
+  },
+  {
+    "objectID": "projects/eda/eda.html",
+    "href": "projects/eda/eda.html",
+    "title": "My EDA project",
+    "section": "",
+    "text": "This is my EDA project…"
   },
   {
     "objectID": "PassPredictRSlides.html#motivating-example---pj-walker-to-dj-moore",
@@ -159,5 +152,12 @@
     "title": "PassPredictR: Contextualizing NFL Throwing Decisions Through Modeling Receiver Choice",
     "section": "Appendix E - Head Tracking Proof of Concept",
     "text": "Appendix E - Head Tracking Proof of Concept"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1 \n\n[1] 2"
   }
 ]
