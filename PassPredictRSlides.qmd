@@ -45,24 +45,18 @@ format:
 -   **2024 NFL Big Data Bowl – 2022 Season Weeks 1–9**
 
 ::: fragment
-<div class="r-fit-text">
 -   **Game and Play Data** – Teams, Score, Play Description, Game Context, Play Result, Changes in Win Probability
-</div>
 :::
 
 ::: fragment
-<div class="r-fit-text">
 -   **Player Play Data** – Statistics for each player for a play
     -   Route ran by player, Whether the player made a tackle or interception
 -   **Tracking Data** - Locations of players and the football at each frame of a play
-</div>
 :::
 
 ::: fragment
-<div class="r-fit-text">
 -   Exclusively looking at throwing plays with an obvious target
     -   Removing spikes and throwaways
-</div>
 :::
 
 :::::::
