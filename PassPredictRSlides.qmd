@@ -64,31 +64,31 @@ format:
 :::::::
 
 ::: {.column width="50%"}
-![](Slides_Assets/highWP.gif)
+<img src="Slides_Assets/highWP.gif"/>
 :::
 :::::::::
 
 ## Current Spacing Tells an Incomplete Story
 
 ::: {style="text-align: center;"}
-![](Slides_Assets/dadamsthrow.gif)
+<img src="Slides_Assets/dadamsthrow.gif"/>
 :::
 
 ## Speed and Orientation as a Proxy for Future Separation
 
 ::::: columns
 ::: {.column width="50%"}
-<br> ![](Slides_Assets/speedVect.png)
+<br> <img src="Slides_Assets/speedVect.png"/>
 :::
 
 ::: {.column width="50%"}
-![](Slides_Assets/corr_plot.png)
+<img src="Slides_Assets/corr_plot.png"/>
 :::
 :::::
 
 ## Deriving QB Line of Sight Prior to Throw
 
-![](Slides_Assets/vision_example.gif)
+<img src="Slides_Assets/vision_example.gif"/>
 
 ## Methodology
 
@@ -116,11 +116,11 @@ format:
 
 ::::: columns
 ::: {.column width="66%"}
-![](Slides_Assets/PJMoorePredictions.png)
+<img src="Slides_Assets/PJMoorePredictions.png"/>
 :::
 
 ::: {.column width="34%"}
-<br><br> ![](Slides_Assets/moore_throw_rankings.png)
+<br><br> <img src="Assets/Slides_Assets/moore_throw_rankings.png"/>
 :::
 :::::
 
@@ -128,18 +128,18 @@ format:
 
 ::::: columns
 ::: {.column width="50%"}
-<br>![](Slides_Assets/MostPredictable.png)
+<br><img src="Slides_Assets/MostPredictable.png"/>
 :::
 
 ::: {.column width="50%"}
-<br> ![](Slides_Assets/MostUnPredictable.png)
+<br> <img src="Slides_Assets/MostUnPredictable.png"/>
 :::
 :::::
 
 ## Potential Optimization Opportunities with More Conventional Passes
 
 ::: {style="text-align: center;"}
-![](Slides_Assets/QBClustering_nt.png)
+<img src="Slides_Assets/QBClustering_nt.png"/>
 :::
 
 ## Discussion {.small}
@@ -168,36 +168,35 @@ format:
 
 ## Appendix A - Projecting Future Locations With a Point Estimate
 
-:::: {style="display: flex; align-items: center; height: 100vh;"}
-::: {style="text-align: center; width: 100%;"}
-![](Slides_Assets/project_fail.png){style="max-height: 80vh;"}
+
+::: {style="text-align: center;}
+<img src="Slides_Assets/project_fail.png" width="600px"/>
 :::
-::::
 
 ## Appendix B - Variable Importance
 
-:::: {style="display: flex; align-items: center; height: 70vh;"}
+
 ::: {style="text-align: center; width: 100%;"}
-![](Slides_Assets/vip_plot.png){style="max-height: 70vh;"}
+<img src="Slides_Assets/vip_plot.png"/>
 :::
-::::
+
 
 ## Appendix C - Example for Vision Features
 
-:::: {style="display: flex; align-items: center; height: 70vh;"}
-::: {style="text-align: center; width: 100%;"}
-![](Slides_Assets/Los_wr.png){style="max-height: 70vh;"}
+
+::: {style="text-align: center;"}
+<img src="Slides_Assets/Los_wr.png"/>
 :::
-::::
+
 
 ## Appendix D - Optimal QB Vision Derivation
 
 ::: {style="text-align: center;"}
-![](Slides_Assets/Angle_diff_Histogram.png){width="656"}
+<img src="Slides_Assets/Angle_diff_Histogram.png" height="600/"/>
 :::
 
 ## Appendix E - Head Tracking Proof of Concept
 
 ::: {style="text-align: center;"}
-![](Slides_Assets/lionsplay.gif) ![](Slides_Assets/washingtonpass.gif)
+<img src="Slides_Assets/lionsplay.gif"/> <img src="Slides_Assets/washingtonpass.gif"/>
 :::
