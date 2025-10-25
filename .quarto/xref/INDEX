@@ -1,0 +1,29 @@
+{
+  "index.qmd": {
+    "index.html": "299c6773"
+  },
+  "about.qmd": {
+    "about.html": "95956d7b"
+  },
+  "web-files/projects.qmd": {
+    "projects.html": "9d0f3805"
+  },
+  "web-files/index.qmd": {
+    "index.html": "d9c3d850"
+  },
+  "projects/eda/eda.qmd": {
+    "eda.html": "3940dbe9"
+  },
+  "projects.qmd": {
+    "projects.html": "33e8927f"
+  },
+  "projects/capstone/capstone.qmd": {
+    "capstone.html": "c164f1f9"
+  },
+  "PassPredictRSlides.qmd": {
+    "PassPredictRSlides.html": "46734371"
+  },
+  "projects/capstone/PassPredictRSlides.qmd": {
+    "PassPredictRSlides.html": "dfb1eed3"
+  }
+}

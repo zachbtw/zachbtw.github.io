@@ -1,0 +1,20 @@
+---
+title: "My Capstone project"
+description: "This is my summer 2025 capstone project, from CMSACamp"
+date: "July 2025"
+resources: "."
+about:
+  template: solana
+  image: websiteassets/CapstoneThumbnail.png
+  links:
+    - icon: github
+      text: "GitHub"
+      href: "https://github.com/zachbtw/Zhou-Pipping-CMSA"
+    - icon: easel
+      text: "Slides"
+      href: "PassPredictRSlides.html"
+    
+format: html
+---
+
+This is my capstone project
