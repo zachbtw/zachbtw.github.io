@@ -5,7 +5,7 @@ date: "July 2025"
 resources: "."
 about:
   template: solana
-  image: websiteassets/CapstoneThumbnail.png
+  image: CapstoneThumbnail.png
   links:
     - icon: github
       text: "GitHub"
