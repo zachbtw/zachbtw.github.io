@@ -24,8 +24,8 @@ jobs:
         uses: r-lib/actions/setup-r-dependencies@v2
         with:
           extra-packages: |
-          rmarkdown
-          knitr
+            rmarkdown
+            knitr
         
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
