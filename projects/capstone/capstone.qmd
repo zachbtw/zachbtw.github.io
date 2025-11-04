@@ -13,6 +13,9 @@ about:
     - icon: easel
       text: "Slides"
       href: "PassPredictRSlides.html"
+    - icon: paper
+      text: "Paper"
+      href: "PassPredictRPaper.html"
     
 format: html
 ---
