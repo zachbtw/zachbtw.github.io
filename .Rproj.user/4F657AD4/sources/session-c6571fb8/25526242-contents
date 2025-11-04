@@ -1,11 +1,11 @@
 ---
-title: "My Capstone project"
-description: "This is my summer 2025 capstone project, from CMSACamp"
+title: "PassPredictR"
+description: "Summer 2025 Capstone Project, at CMSACamp, with Lou Zhou."
 date: "July 2025"
 resources: "."
 about:
   template: solana
-  image: websiteassets/CapstoneThumbnail.png
+  image: CapstoneThumbnail.png
   links:
     - icon: github
       text: "GitHub"
@@ -13,6 +13,9 @@ about:
     - icon: easel
       text: "Slides"
       href: "PassPredictRSlides.html"
+    - icon: easel
+      text: "Paper"
+      href: "PassPredictRPaper.html"
     
 format: html
 ---
