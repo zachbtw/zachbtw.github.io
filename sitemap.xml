@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://zachbtw.github.io/projects.html</loc>
-    <lastmod>2025-11-04T00:41:40.534Z</lastmod>
+    <lastmod>2025-11-04T00:49:33.258Z</lastmod>
   </url>
   <url>
-    <loc>https://zachbtw.github.io/index.html</loc>
-    <lastmod>2025-11-04T00:41:40.534Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zachbtw.github.io/projects/capstone/capstone.html</loc>
-    <lastmod>2025-11-04T00:41:40.536Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zachbtw.github.io/projects/eda/eda.html</loc>
-    <lastmod>2025-11-04T00:41:40.538Z</lastmod>
+    <loc>https://zachbtw.github.io/PassPredictRPaper.html</loc>
+    <lastmod>2025-11-04T00:49:32.774Z</lastmod>
   </url>
   <url>
     <loc>https://zachbtw.github.io/PassPredictRSlides.html</loc>
-    <lastmod>2025-11-04T00:41:40.051Z</lastmod>
+    <lastmod>2025-11-04T00:49:32.774Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zachbtw.github.io/projects/eda/eda.html</loc>
+    <lastmod>2025-11-04T00:49:33.262Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zachbtw.github.io/projects/capstone/capstone.html</loc>
+    <lastmod>2025-11-04T00:49:33.260Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zachbtw.github.io/index.html</loc>
+    <lastmod>2025-11-04T00:49:33.258Z</lastmod>
   </url>
   <url>
     <loc>https://zachbtw.github.io/about.html</loc>
-    <lastmod>2025-11-04T00:41:40.534Z</lastmod>
+    <lastmod>2025-11-04T00:49:33.258Z</lastmod>
   </url>
 </urlset>
